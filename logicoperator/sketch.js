@@ -19,7 +19,6 @@ function setup() {
     
     if(mouseX > windowWidth/2 && mouseY > windowHeight/2) cirkel = color("white"); //Nederste højre kvadrat bliver cirkel gjort hvid igen
     
-    
    
    fill(cirkel)
     ellipse(mouseX,mouseY,50);
