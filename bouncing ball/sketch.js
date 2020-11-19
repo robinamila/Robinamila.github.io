@@ -3,8 +3,8 @@ var speed = 10;
 
 function setup() {
   createCanvas(windowWidth, windowHeight); //Laver et canvas der passer til "vinduet"
-}
-
+  }
+ 
 function draw() {
   background(220);
   ellipse (x,windowHeight/2,100,100);//Laver en ellipse der starter halvejs ned af y-aksen ved hjælå af "windowHeight/2"
