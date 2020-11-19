@@ -1,2 +1,2 @@
 # robinamila.github.io
-[kage](kage_profil/Hjemmeside/)
+[kage](kage_profil/hjemmeside/)
