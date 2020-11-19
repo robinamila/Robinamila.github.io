@@ -1,2 +1,2 @@
 # robinamila.github.io
-[kage](/kage_profil/hjemmeside/)
+Dette er min hjemme side tjek den ud [her](/https://robinamila.github.io/)
