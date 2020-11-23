@@ -18,6 +18,7 @@ function draw() {
   else if (x<=0){
     speed=10 // Denne kode gør at hvis cirklens x-værdi er lig med eller mindre end 0 bliver den sendt til højre side igen med værdien +10
   }
+
   
   
 }
