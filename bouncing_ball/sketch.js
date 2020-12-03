@@ -13,8 +13,8 @@ function setup() {
 
 function draw() {
   background("pink")
-  ellipse(x, y, r*2, r*2)
-  circle(x,y,30)
+
+  circle(x,y,50)
   x += xspeed
   y += yspeed
   if (x > windowWidth - r || x < r) {
