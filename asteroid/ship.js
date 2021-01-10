@@ -1,3 +1,5 @@
+
+
 function ship(){
     this.pos = createVector(width/2,height/2);
     this.r =20;
